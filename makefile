@@ -1,6 +1,6 @@
 ###########################################################
 #
-# Simple Makefile for Operating Systems Project 3
+# Simple Makefile for Producer/Consumer Problem
 # Threads
 #
 ###########################################################

@@ -1,6 +1,6 @@
-//*********************************************************
-//The Producer / Consumer Problem With Prime Number Detector
-//*********************************************************
+/**
+The Producer / Consumer Problem With Prime Numbers
+*/
 #include <pthread.h>
 #include <stdbool.h>
 #include "buffer.h"

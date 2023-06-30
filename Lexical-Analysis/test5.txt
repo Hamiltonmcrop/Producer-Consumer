@@ -1,0 +1,10 @@
+// consequtive underscores are not allowed
+
+function _test__1 returns bool;
+    begin
+        if 5 7 + 2 >= 6 and 8 = 5 ** (7 - 4) then
+            true;
+        else
+            false;
+        endif;
+    end;

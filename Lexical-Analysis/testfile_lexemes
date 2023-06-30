@@ -1,0 +1,32 @@
+-- Punctuation symbols
+    ,:;() =>
+
+-- Valid identifiers
+    name_1
+    name_1_a2_ab3
+
+-- Invalid identifiers
+    name__2
+    _name3
+    name4_
+
+-- Literals
+    123 123.45 123. 1.2E2 1.e+2 1.2E-2 true false
+
+-- Arrow
+    =>
+
+-- Logical operators
+    and or not
+
+-- Relational operators
+    = /= > >= < <=
+
+-- Arithmetic operators
+    + - * / rem **
+
+-- Boolean operators
+    true false
+
+-- Reserved words
+    begin boolean end endreduce function integer is reduce returns case else endcase endif if others real when

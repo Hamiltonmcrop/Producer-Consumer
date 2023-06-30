@@ -1,0 +1,6 @@
+-- Function with arithmetic expression returning real
+
+function test_1_again returns real;
+begin
+    7 + 2.5 * (2  + 4);
+end;
